@@ -1,0 +1,32 @@
+#banner{
+    height: 350px; width: 100%; object-fit: cover;
+  }
+  h1{
+    color: rgba(241, 210, 34, 0.781)
+  }
+  h2{
+    font-style: normal;
+     
+    color: rgba(197, 172, 27, 0.781)
+  }
+  .fs-4{
+    color: rgba(241, 210, 34, 0.781);
+    font-style: normal;
+    font-weight: normal;
+    font-size:large;
+  }
+  .btn:before{
+
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  
+  }
+  .btn:hover{
+    opacity: 0.8;
+  }
+
